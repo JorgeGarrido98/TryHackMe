@@ -49,6 +49,7 @@ use 0
 Ajustamos los parámetros necesarios:
 - RHOSTS: IP de la máquina víctima
 - LHOST: IP de nuestra máquina atacante
+
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/1e92f036-24cf-4e83-88d5-45ee95ca8e1f" /><br>
 
 Ejecutamos el exploit:
@@ -56,6 +57,7 @@ Ejecutamos el exploit:
 run
 ```
 Accedemos satisfactoriamente a la máquina.
+
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/d936ec3f-ca76-4f53-a748-cbba47191b90" /><br>
 
 ---
